@@ -1,4 +1,4 @@
-# eslint-contig-mocha
+# eslint-config-mocha
 
 [shareable configuration](https://eslint.org/docs/developer-guide/shareable-configs#shareable-configs)
 for [ESLint](https://eslint.org) for
@@ -16,7 +16,7 @@ for [ESLint](https://eslint.org) for
 ### Installation
 
 ```sh
-$ npm install @form8ion/eslint-contig-mocha --save-dev
+$ npm install @form8ion/eslint-config-mocha --save-dev
 ```
 
 ## Contributing
@@ -26,7 +26,7 @@ $ npm install @form8ion/eslint-contig-mocha --save-dev
 [![Commitizen friendly][commitizen-badge]][commitizen-link]
 [![semantic-release][semantic-release-badge]][semantic-release-link]
 [![PRs Welcome][PRs-badge]][PRs-link]
-[![Greenkeeper badge](https://badges.greenkeeper.io/form8ion/eslint-contig-mocha.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/form8ion/eslint-config-mocha.svg)](https://greenkeeper.io/)
 
 ### Dependencies
 
@@ -41,12 +41,12 @@ $ npm install
 $ npm test
 ```
 
-[npm-link]: https://www.npmjs.com/package/@form8ion/eslint-contig-mocha
-[npm-badge]: https://img.shields.io/npm/v/@form8ion/eslint-contig-mocha.svg
+[npm-link]: https://www.npmjs.com/package/@form8ion/eslint-config-mocha
+[npm-badge]: https://img.shields.io/npm/v/@form8ion/eslint-config-mocha.svg
 [license-link]: LICENSE
-[license-badge]: https://img.shields.io/github/license/form8ion/eslint-contig-mocha.svg
-[ci-link]: https://travis-ci.com/form8ion/eslint-contig-mocha
-[ci-badge]: https://img.shields.io/travis/com/form8ion/eslint-contig-mocha/master.svg
+[license-badge]: https://img.shields.io/github/license/form8ion/eslint-config-mocha.svg
+[ci-link]: https://travis-ci.com/form8ion/eslint-config-mocha
+[ci-badge]: https://img.shields.io/travis/com/form8ion/eslint-config-mocha/master.svg
 [commit-convention-link]: https://conventionalcommits.org
 [commit-convention-badge]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg
 [commitizen-link]: http://commitizen.github.io/cz-cli/

@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: eslint-config-mocha
+  description: shareable config for ESLint for Mocha test files
+  homepage: 'https://npm.im/@form8ion/eslint-config-mocha'
+  private: false

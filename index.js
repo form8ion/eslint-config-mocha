@@ -1,15 +1,17 @@
 module.exports = {
-  env: {
-    mocha: true
-  },
+  overrides: [{
+    files: '**/*-test.js',
 
-  plugins: ['mocha'],
+    env: {mocha: true},
 
-  extends: ['plugin:mocha/recommended'],
+    plugins: ['mocha'],
 
-  rules: {
-    'mocha/no-skipped-tests': 'error',
-    'filenames/match-regex': ['error', '^[a-z0-9\\-\\.]+-test$'],
-    'import/no-extraneous-dependencies': ['error', {devDependencies: true}]
-  }
+    extends: ['plugin:mocha/recommended'],
+
+    rules: {
+      'mocha/no-skipped-tests': 'error',
+      'filenames/match-regex': ['error', '^[a-z0-9\\-\\.]+-test$'],
+      'import/no-extraneous-dependencies': ['error', {devDependencies: true}]
+    }
+  }]
 };

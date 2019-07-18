@@ -10,6 +10,8 @@ module.exports = {
 
     rules: {
       'mocha/no-skipped-tests': 'error',
+      'mocha/no-mocha-arrows': 'off',
+      'mocha/no-setup-in-describe': 'off',
       'filenames/match-regex': ['error', '^[a-z0-9\\-\\.]+-test$'],
       'import/no-extraneous-dependencies': ['error', {devDependencies: true}]
     }

@@ -27,7 +27,7 @@
   "devDependencies": {
     "@form8ion/commitlint-config": "1.0.30",
     "@form8ion/eslint-config": "5.0.1",
-    "@form8ion/remark-lint-preset": "2.1.7",
+    "@form8ion/remark-lint-preset": "2.1.8",
     "ban-sensitive-files": "1.9.16",
     "chai": "4.3.4",
     "cz-conventional-changelog": "3.3.0",

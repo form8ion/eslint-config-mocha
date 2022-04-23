@@ -7,7 +7,7 @@
     "index.js"
   ],
   "engines": {
-    "node": ">=12.20"
+    "node": "^14.17 || >=16"
   },
   "publishConfig": {
     "access": "public"
@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@form8ion/commitlint-config": "1.0.23",
-    "@form8ion/eslint-config": "2.0.2",
+    "@form8ion/eslint-config": "5.0.0",
     "@form8ion/remark-lint-preset": "2.1.7",
     "ban-sensitive-files": "1.9.16",
     "chai": "4.3.4",

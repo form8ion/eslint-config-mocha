@@ -21,7 +21,8 @@
     "lint:js": "eslint . --cache",
     "lint:md": "remark . --frail",
     "lint:sensitive": "ban",
-    "lint:engines": "ls-engines"
+    "lint:engines": "ls-engines",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@form8ion/commitlint-config": "1.0.23",

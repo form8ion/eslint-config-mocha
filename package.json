@@ -37,6 +37,6 @@
     "remark-cli": "11.0.0"
   },
   "dependencies": {
-    "eslint-plugin-mocha": "10.0.5"
+    "eslint-plugin-mocha": "10.1.0"
   }
 }

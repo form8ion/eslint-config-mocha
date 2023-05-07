@@ -22,7 +22,8 @@
     "index.js"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   },
   "dependencies": {
     "eslint-plugin-mocha": "10.1.0"

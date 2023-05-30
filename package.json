@@ -29,7 +29,7 @@
     "eslint-plugin-mocha": "10.1.0"
   },
   "devDependencies": {
-    "@form8ion/commitlint-config": "1.0.50",
+    "@form8ion/commitlint-config": "1.0.51",
     "@form8ion/eslint-config": "5.0.32",
     "@form8ion/remark-lint-preset": "5.0.9",
     "ban-sensitive-files": "1.9.19",

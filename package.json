@@ -34,7 +34,7 @@
     "@form8ion/eslint-config": "7.0.13",
     "@form8ion/remark-lint-preset": "6.0.7",
     "ban-sensitive-files": "1.10.9",
-    "chai": "5.2.0",
+    "chai": "5.2.1",
     "cz-conventional-changelog": "3.3.0",
     "husky": "9.1.7",
     "ls-engines": "0.9.3",

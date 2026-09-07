@@ -39,7 +39,7 @@
     "husky": "9.1.7",
     "ls-engines": "0.10.0",
     "npm-run-all2": "9.0.1",
-    "publint": "0.3.21",
+    "publint": "0.3.24",
     "remark-cli": "12.0.1"
   }
 }
